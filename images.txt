@@ -20,3 +20,4 @@ shlinkio/shlink
 shlinkio/shlink-web-client
 hunsh/gh-proxy-py
 zmisgod/iptvchecker
+crazymax/jetbrains-license-server
