@@ -22,4 +22,4 @@ hunsh/gh-proxy-py
 zmisgod/iptvchecker
 crazymax/jetbrains-license-server
 xhofe/alist
-rokeyyan/weiyun-dav
+rokeyyan/weiyun-dav:0.0.2-beta8
