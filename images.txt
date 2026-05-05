@@ -1,3 +1,4 @@
+rokeyyan/weiyun-dav:0.0.2-beta8
 alpine
 mariadb:10.8.3
 redis
@@ -22,4 +23,3 @@ hunsh/gh-proxy-py
 zmisgod/iptvchecker
 crazymax/jetbrains-license-server
 xhofe/alist
-rokeyyan/weiyun-dav:0.0.2-beta8
