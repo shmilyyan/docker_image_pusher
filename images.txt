@@ -1,4 +1,4 @@
-rokeyyan/weiyun-dav:0.0.2-beta10
+rokeyyan/weiyun-dav:0.0.2-beta12
 alpine
 mariadb:10.8.3
 redis
